@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465970414860",
+    "project_id": "abhishek-janga-project2-users",
+    "storage_bucket": "abhishek-janga-project2-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465970414860:android:4571a12309772c84057529",
+        "android_client_info": {
+          "package_name": "com.example.abhishek_janga_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzwA4lqgeH9bNPwcIwxh-kKR8eaqwmgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
